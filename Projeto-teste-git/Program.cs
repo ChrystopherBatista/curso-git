@@ -12,6 +12,7 @@ namespace Projeto_teste_git
         {
 
             Console.WriteLine("Hello Marie!");
+            Console.WriteLine("Hello Pai");
 
             Console.ReadLine();
         }
